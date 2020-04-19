@@ -1,0 +1,128 @@
+
+
+frame# 0
+original left_fit [ -1.12766357e-06   2.68501689e-02   4.19502955e+02]
+original right_fit [ -7.28270804e-05   2.62090372e-02   8.54904267e+02]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([ -1.12766357e-06,   2.68501689e-02,   4.19502955e+02])]
+right_line.recent_fit [array([ -7.28270804e-05,   2.62090372e-02,   8.54904267e+02])]
+left_line.best_fit [-1.127663566993035e-06, 0.02685016888025589, 419.50295476416454]
+right_line.best_fit [-7.2827080449379498e-05, 0.026209037226199019, 854.9042672571735]
+Adjusted left_curverad 2080495.18206
+Adjusted right_curverad 32236.2403061
+center -0.0260998413148
+left_lane_bottom 419.502144631
+right_lane_bottom 854.854646436
+
+
+frame# 0
+original left_fit [ -2.59425071e-04   4.13272555e-01   3.12948772e+02]
+original right_fit [ -2.49046920e-04   3.44490877e-01   7.61747486e+02]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([ -2.59425071e-04,   4.13272555e-01,   3.12948772e+02])]
+right_line.recent_fit [array([ -2.49046920e-04,   3.44490877e-01,   7.61747486e+02])]
+left_line.best_fit [-0.0002594250707031672, 0.41327255512673844, 312.94877186799357]
+right_line.best_fit [-0.00024904691978091159, 0.34449087746425638, 761.74748561122874]
+Adjusted left_curverad 9094.22556142
+Adjusted right_curverad 9472.97622526
+center -0.950911458532
+left_lane_bottom 312.797037424
+right_lane_bottom 761.600485055
+
+
+frame# 0
+original left_fit [ -8.31100195e-06   4.41607536e-02   4.12758764e+02]
+original right_fit [ -2.84092603e-05  -3.65997941e-02   8.82618149e+02]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([ -8.31100195e-06,   4.41607536e-02,   4.12758764e+02])]
+right_line.recent_fit [array([ -2.84092603e-05,  -3.65997941e-02,   8.82618149e+02])]
+left_line.best_fit [-8.3110019495254365e-06, 0.044160753559970373, 412.75876364319186]
+right_line.best_fit [-2.8409260262221858e-05, -0.036599794079426408, 882.61814927179]
+Adjusted left_curverad 282288.142882
+Adjusted right_curverad 82595.3128986
+center 0.0709982084371
+left_lane_bottom 412.752823741
+right_lane_bottom 882.598140246
+
+
+frame# 0
+original left_fit [  1.00582736e-04  -1.22250885e-01   4.98942777e+02]
+original right_fit [  2.28030529e-04  -3.78779757e-01   1.03239849e+03]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([  1.00582736e-04,  -1.22250885e-01,   4.98942777e+02])]
+right_line.recent_fit [array([  2.28030529e-04,  -3.78779757e-01,   1.03239849e+03])]
+left_line.best_fit [0.00010058273571791182, -0.12225088534841158, 498.94277749606442]
+right_line.best_fit [0.00022803052872094024, -0.37877975715448026, 1032.3984888238847]
+Adjusted left_curverad 23347.6090577
+Adjusted right_curverad 10332.0066848
+center 1.16369463213
+left_lane_bottom 499.020326519
+right_lane_bottom 1032.58932367
+
+
+frame# 0
+original left_fit [  3.22809902e-04  -3.86364340e-01   5.64810044e+02]
+original right_fit [  2.64693942e-04  -4.23308146e-01   1.03724841e+03]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([  3.22809902e-04,  -3.86364340e-01,   5.64810044e+02])]
+right_line.recent_fit [array([  2.64693942e-04,  -4.23308146e-01,   1.03724841e+03])]
+left_line.best_fit [0.00032280990247935364, -0.38636433957576732, 564.81004355818186]
+right_line.best_fit [0.00026469394190646226, -0.42330814585279508, 1037.2484125967146]
+Adjusted left_curverad 7340.75665626
+Adjusted right_curverad 8915.12329696
+center 1.49189069812
+left_lane_bottom 565.096014437
+right_lane_bottom 1037.47494732
+
+
+frame# 0
+original left_fit [  1.03455574e-04  -2.85114765e-01   6.05392532e+02]
+original right_fit [  1.19613620e-04  -3.35464379e-01   1.05036400e+03]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([  1.03455574e-04,  -2.85114765e-01,   6.05392532e+02])]
+right_line.recent_fit [array([  1.19613620e-04,  -3.35464379e-01,   1.05036400e+03])]
+left_line.best_fit [0.00010345557359736734, -0.28511476525850449, 605.39253151303149]
+right_line.best_fit [0.00011961361960768768, -0.33546437878709312, 1050.3640009743776]
+Adjusted left_curverad 22689.6703358
+Adjusted right_curverad 19627.8907052
+center 1.73867555013
+left_lane_bottom 605.472449133
+right_lane_bottom 1050.45739954
+
+
+frame# 0
+original left_fit [  2.69258206e-04  -3.29957022e-01   5.19041853e+02]
+original right_fit [  3.18231450e-04  -4.83503251e-01   1.04651161e+03]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([  2.69258206e-04,  -3.29957022e-01,   5.19041853e+02])]
+right_line.recent_fit [array([  3.18231450e-04,  -4.83503251e-01,   1.04651161e+03])]
+left_line.best_fit [0.00026925820610254299, -0.32995702215779482, 519.04185345751137]
+right_line.best_fit [0.000318231449860709, -0.48350325053203863, 1046.5116086622641]
+Adjusted left_curverad 8773.45374238
+Adjusted right_curverad 7436.36137982
+center 1.32305386312
+left_lane_bottom 519.272929771
+right_lane_bottom 1046.79277036
+
+
+frame# 0
+original left_fit [  1.66342692e-04  -3.34059643e-01   6.01505913e+02]
+original right_fit [  1.84868095e-04  -3.95602418e-01   1.04547288e+03]
+len(left_line.recent_fit) 1 
+len(right_line.recent_fit) 1 
+left_line.recent_fit [array([  1.66342692e-04,  -3.34059643e-01,   6.01505913e+02])]
+right_line.recent_fit [array([  1.84868095e-04,  -3.95602418e-01,   1.04547288e+03])]
+left_line.best_fit [0.00016634269153568986, -0.33405964311650604, 601.50591254751123]
+right_line.best_fit [0.00018486809543199613, -0.39560241765251192, 1045.4728769830595]
+Adjusted left_curverad 14131.6430079
+Adjusted right_curverad 12719.7492343
+center 1.69859267976
+left_lane_bottom 601.639817197
+right_lane_bottom 1045.62346491
